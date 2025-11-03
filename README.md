@@ -1,16 +1,25 @@
-## Hi there 👋
+# G'day! I'm Michael Valenzuela
 
-<!--
-**Micooo-av/Micooo-av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am currently developing my expertise in **Network Engineering** while expanding my knowledge in **Cybersecurity** to pursue a career as a **Network Engineer/Cyber Security Analyst**. I have a strong interest in networks and cyber defense, with a passion for understanding how network infrastructures operate — and, more importantly, how to secure and fortify business network environments against evolving cyber threats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin Profile - Michael Valenzuela](www.linkedin.com/in/michael-angelo-valenzuela-8065041b6)
+
+## What do I do
+- I design, configure, and troubleshoot network infrastructures to ensure reliable and secure connectivity.
+- I’m developing my expertise in Network Engineering, focusing on network design, VLANs, routing, switching, and wireless configuration.
+- I’m expanding my knowledge in Cybersecurity, including network defense, monitoring, and incident response.
+- I aim to integrate both disciplines — ensuring that networks are not only efficient but also resilient against cyber threats.
+- I stay up to date with industry tools, best practices, and emerging technologies to strengthen business network security.
+
+## Skills  
+- Networking and Network Security
+- Network Designing 
+- Visualization and Traffic Analysis 
+- AWS Cloud Security
+- Phishing Analysis
+- Digital Forensics and Incident Response 
+- Network Security and Traffic Analysis
+- Endpoint Security Monitoring
+
+
