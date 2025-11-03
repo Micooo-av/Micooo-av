@@ -12,6 +12,10 @@ I am currently developing my expertise in **Network Engineering** while expandin
 - I aim to integrate both disciplines — ensuring that networks are not only efficient but also resilient against cyber threats.
 - I stay up to date with industry tools, best practices, and emerging technologies to strengthen business network security.
 
+## What You’ll Find Here:
+- Labs and hands-on exercise documentation
+- Projects aimed at learning cybersecurity and networking
+
 ## Skills  
 - Networking and Network Security
 - Network Designing 
