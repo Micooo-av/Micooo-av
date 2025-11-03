@@ -3,7 +3,7 @@
 
 I am currently developing my expertise in **Network Engineering** while expanding my knowledge in **Cybersecurity** to pursue a career in **network or cybersecurity-related roles**. I have a strong interest in networks and cyber defense, with a passion for understanding how network infrastructures operate — and, more importantly, how to secure and fortify business network environments against evolving cyber threats.
 
-[Linkedin Profile - Michael Valenzuela](www.linkedin.com/in/michael-angelo-valenzuela-8065041b6)
+[Linkedin Profile - Michael Valenzuela](https://www.linkedin.com/in/michael-angelo-valenzuela-8065041b6/)
 
 ## What do I do
 - I design, configure, and troubleshoot network infrastructures to ensure reliable and secure connectivity.
