@@ -5,6 +5,8 @@ I am currently developing my expertise in **Network Engineering** while expandin
 
 [Linkedin Profile - Michael Valenzuela](https://www.linkedin.com/in/michael-angelo-valenzuela-8065041b6/)
 
+---
+
 ## What do I do
 - I design, configure, and troubleshoot network infrastructures to ensure reliable and secure connectivity.
 - I’m developing my expertise in Network Engineering, focusing on network design, VLANs, routing, switching, and wireless configuration.
@@ -12,9 +14,13 @@ I am currently developing my expertise in **Network Engineering** while expandin
 - I aim to integrate both disciplines — ensuring that networks are not only efficient but also resilient against cyber threats.
 - I stay up to date with industry tools, best practices, and emerging technologies to strengthen business network security.
 
+---
+
 ## What You’ll Find Here:
 - Labs and hands-on exercise documentation
 - Projects aimed at learning cybersecurity and networking
+
+---
 
 ## Skills  
 - Networking and Network Security
